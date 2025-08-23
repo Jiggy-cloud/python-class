@@ -94,3 +94,5 @@ for num in my_array:
    print("Number:", num) #printing each number in the array
 
    mydb = mysql.connector.connect 
+
+   
